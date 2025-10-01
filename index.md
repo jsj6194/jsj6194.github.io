@@ -1,5 +1,5 @@
 ---
-title: "MyTitle."
+title: "OSS"
 layout: splash
 header:
   overlay_color: "#fff"
@@ -18,5 +18,5 @@ intro:
 ## Title
 
 Body
-
+Week5 Lab 2: Issue and Pull Request
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
